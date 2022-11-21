@@ -1,0 +1,15 @@
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Домашнее задание 3\bin\Debug\net6.0\Домашнее задание 3.exe
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Домашнее задание 3\bin\Debug\net6.0\Домашнее задание 3.deps.json
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Домашнее задание 3\bin\Debug\net6.0\Домашнее задание 3.runtimeconfig.json
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Домашнее задание 3\bin\Debug\net6.0\Домашнее задание 3.dll
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Домашнее задание 3\bin\Debug\net6.0\Домашнее задание 3.pdb
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Домашнее задание 3\obj\Debug\net6.0\Домашнее задание 3.csproj.AssemblyReference.cache
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Домашнее задание 3\obj\Debug\net6.0\Домашнее задание 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Домашнее задание 3\obj\Debug\net6.0\Домашнее задание 3.AssemblyInfoInputs.cache
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Домашнее задание 3\obj\Debug\net6.0\Домашнее задание 3.AssemblyInfo.cs
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Домашнее задание 3\obj\Debug\net6.0\Домашнее задание 3.csproj.CoreCompileInputs.cache
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Домашнее задание 3\obj\Debug\net6.0\Домашнее задание 3.dll
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Домашнее задание 3\obj\Debug\net6.0\refint\Домашнее задание 3.dll
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Домашнее задание 3\obj\Debug\net6.0\Домашнее задание 3.pdb
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Домашнее задание 3\obj\Debug\net6.0\Домашнее задание 3.genruntimeconfig.cache
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Домашнее задание 3\obj\Debug\net6.0\ref\Домашнее задание 3.dll
