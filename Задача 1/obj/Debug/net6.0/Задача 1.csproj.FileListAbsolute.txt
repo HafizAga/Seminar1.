@@ -1,0 +1,15 @@
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Задача 1\obj\Debug\net6.0\Задача 1.csproj.AssemblyReference.cache
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Задача 1\obj\Debug\net6.0\Задача 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Задача 1\obj\Debug\net6.0\Задача 1.AssemblyInfoInputs.cache
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Задача 1\obj\Debug\net6.0\Задача 1.AssemblyInfo.cs
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Задача 1\obj\Debug\net6.0\Задача 1.csproj.CoreCompileInputs.cache
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Задача 1\bin\Debug\net6.0\Задача 1.exe
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Задача 1\bin\Debug\net6.0\Задача 1.deps.json
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Задача 1\bin\Debug\net6.0\Задача 1.runtimeconfig.json
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Задача 1\bin\Debug\net6.0\Задача 1.dll
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Задача 1\bin\Debug\net6.0\Задача 1.pdb
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Задача 1\obj\Debug\net6.0\Задача 1.dll
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Задача 1\obj\Debug\net6.0\refint\Задача 1.dll
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Задача 1\obj\Debug\net6.0\Задача 1.pdb
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Задача 1\obj\Debug\net6.0\Задача 1.genruntimeconfig.cache
+C:\Users\Зулфизар\Desktop\Работы Хафиза\Семинар 1\Group 1\Задача 1\obj\Debug\net6.0\ref\Задача 1.dll
